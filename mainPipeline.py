@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
     '''Example for loading BCI Competition IV Dataset 2a'''
     dataset_details={
-        'data_path' : "/Volumes/Transcend/BCI/BCICIV_2a_gdf",
+        'data_path' : "/Users/USER/Desktop/FBCSPtoolbox/fbcsp_code/data/BCICIV_2a_gdf",
         'file_to_load': 'A01T.gdf',
         'ntimes': 1,
         'kfold':10,
